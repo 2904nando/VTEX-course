@@ -1,3 +1,6 @@
 [submodule "VTEX-course-basic-blocks"]
 	path = VTEX-course-basic-blocks
 	url = https://github.com/2904nando/VTEX-course-basic-blocks
+[submodule "VTEX-course-complex-layouts"]
+	path = VTEX-course-complex-layouts
+	url = https://github.com/2904nando/VTEX-course-complex-layouts
