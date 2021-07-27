@@ -4,3 +4,6 @@
 [submodule "VTEX-course-complex-layouts"]
 	path = VTEX-course-complex-layouts
 	url = https://github.com/2904nando/VTEX-course-complex-layouts
+[submodule "VTEX-course-unique-store"]
+	path = VTEX-course-unique-store
+	url = https://github.com/2904nando/VTEX-course-unique-store
