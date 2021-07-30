@@ -7,3 +7,9 @@
 [submodule "VTEX-course-unique-store"]
 	path = VTEX-course-unique-store
 	url = https://github.com/2904nando/VTEX-course-unique-store
+[submodule "VTEX-course-store-performance"]
+	path = VTEX-course-store-performance
+	url = https://github.com/2904nando/VTEX-course-store-performance
+[submodule "VTEX-course-custom-blocks"]
+	path = VTEX-course-custom-blocks
+	url = https://github.com/2904nando/VTEX-course-custom-blocks
