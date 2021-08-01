@@ -13,3 +13,15 @@
 [submodule "VTEX-course-custom-blocks"]
 	path = VTEX-course-custom-blocks
 	url = https://github.com/2904nando/VTEX-course-custom-blocks
+[submodule "VTEX-course-service"]
+	path = VTEX-course-service
+	url = https://github.com/2904nando/VTEX-course-service
+[submodule "VTEX-course-events-example"]
+	path = VTEX-course-events-example
+	url = https://github.com/2904nando/VTEX-course-events-example
+[submodule "VTEX-course-admin-applications"]
+	path = VTEX-course-admin-applications
+	url = https://github.com/2904nando/VTEX-course-admin-applications
+[submodule "VTEX-course-admin-challenge"]
+	path = VTEX-course-admin-challenge
+	url = https://github.com/2904nando/VTEX-course-admin-challenge
